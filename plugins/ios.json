@@ -1,0 +1,1 @@
+{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{"framework":{"ExternalAccessory.framework":{"false":1}},"config.xml":{"/*":{"<feature name=\"LineaProCDV\"><param name=\"ios-package\" value=\"LineaProCDV\" /></feature>":1}}},"installed_plugins":{"com.citronium.lineaprocdv":{"PACKAGE_NAME":"com.citronium.samples.hellolineapro"}},"dependent_plugins":{}}
