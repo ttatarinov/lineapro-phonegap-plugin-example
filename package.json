@@ -1,0 +1,27 @@
+
+{
+    "name": "com.citronium.lineaprocdv",
+    "version": "2.0.1",
+    "description": "Cordova barcode scanner plugin for Linea devices",
+    "cordova": {
+      "id": "com.citronium.lineaprocdv",
+      "platforms": [
+        "ios"
+      ]
+    },
+    "keywords": [
+      "ionic",
+      "cordova",
+      "Barcode",
+      "Scanner",
+      "cordova-ios",
+      "linea"
+    ],
+    "engines": [
+      {
+        "name": "cordova",
+        "version": ">=3.0.0"
+      }
+    ],
+    "author": "ttatarinov"
+  }
